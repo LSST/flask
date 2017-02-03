@@ -2,5 +2,6 @@
 # itsdangerous==0.24
 # Jinja2==2.7.3
 # Werkzeug==0.9.6
+# Click==6.7
 setupRequired(python)
 envPrepend(PYTHONPATH, ${PRODUCT_DIR}/lib/python)
